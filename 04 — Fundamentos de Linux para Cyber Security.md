@@ -1,6 +1,6 @@
 # 🐧04 — Fundamentos de Linux para Cyber Security
 
-## 🎯 Objetivo da Aula
+## 🎯 Objetivo
 Apresentar os conceitos fundamentais do sistema operacional Linux,
 sua estrutura, funcionamento e importância no contexto de
 Cyber Security.
