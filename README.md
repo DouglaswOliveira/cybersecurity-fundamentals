@@ -1,5 +1,10 @@
 # 🔐 Cyber Security Fundamentals
 
+![GitHub stars](https://img.shields.io/github/stars/DouglaswOliveira/cybersecurity-fundamentals?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/DouglaswOliveira/cybersecurity-fundamentals?style=for-the-badge)
+![GitHub license](https://img.shields.io/github/license/DouglaswOliveira/cybersecurity-fundamentals?style=for-the-badge)
+![Status](https://img.shields.io/badge/status-informativo-blue?style=for-the-badge)
+
 Repositório dedicado ao estudo estruturado de **Cyber Security**,
 com foco em **fundamentos**, **segurança da informação**, **redes**
 e **segurança defensiva (Blue Team)**.
@@ -7,6 +12,16 @@ e **segurança defensiva (Blue Team)**.
 Este projeto reúne conteúdos organizados de forma clara,
 progressiva e acessível, com **finalidade exclusivamente informativa
 e educacional**.
+
+---
+
+## 📌 Índice
+- [🎯 Objetivo](#-objetivo)
+- [🧠 Estrutura de Conteúdo](#-estrutura-de-conteúdo)
+- [🧭 Como Navegar pelo Repositório](#-como-navegar-pelo-repositório)
+- [🛠️ Tecnologias e Conceitos](#-tecnologias-e-conceitos)
+- [🚀 Status do Projeto](#-status-do-projeto)
+- [⚠️ Observação Importante](#-observação-importante)
 
 ---
 
@@ -64,27 +79,9 @@ abordando:
 
 ---
 
-## 🛠️ Tecnologias e Conceitos
-- Cyber Security  
-- Information Security  
-- Network Security  
-- Linux  
-- Blue Team  
-- Monitoramento e Logs  
+## 🧭 Como Navegar pelo Repositório
+Cada pasta representa um **módulo de estudo numerado**.
+Dentro de cada módulo você encontrará arquivos `.md`
+com o conteúdo organizado de forma progressiva.
 
----
-
-## 🚀 Status do Projeto
-📌 Conteúdo informativo  
-📌 Atualizações progressivas  
-📌 Em constante evolução  
-
----
-
-## 📌 Observação Importante
-Este repositório possui **finalidade exclusivamente informativa e educacional**.
-O conteúdo não deve ser utilizado para atividades ilegais, ofensivas ou
-que violem políticas de segurança, leis ou normas vigentes.
-
-O autor não se responsabiliza pelo uso indevido das informações aqui
-apresentadas.
+📌 Recomenda-se seguir a leitura **na ordem numérica** das pastas.
