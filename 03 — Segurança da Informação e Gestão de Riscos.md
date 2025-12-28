@@ -1,4 +1,4 @@
-# 🛡️ Aula 03 — Segurança da Informação e Gestão de Riscos
+# 🛡️03 — Segurança da Informação e Gestão de Riscos
 
 ## 🎯 Objetivo da Aula
 Compreender os conceitos de Segurança da Informação,
