@@ -1,6 +1,6 @@
 # 🔐01 — Introdução à Cyber Security
 
-## 🎯 Objetivo da Aula
+## 🎯 Objetivo
 Apresentar os conceitos fundamentais de Cyber Security,
 sua importância no cenário atual e os princípios básicos
 da segurança da informação.
