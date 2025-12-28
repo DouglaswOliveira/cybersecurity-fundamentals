@@ -1,6 +1,6 @@
 # 🛡️03 — Segurança da Informação e Gestão de Riscos
 
-## 🎯 Objetivo da Aula
+## 🎯 Objetivo
 Compreender os conceitos de Segurança da Informação,
 seus princípios, políticas e a importância da gestão de riscos
 no ambiente organizacional.
