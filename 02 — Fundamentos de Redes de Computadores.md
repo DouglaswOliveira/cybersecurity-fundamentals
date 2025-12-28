@@ -1,6 +1,6 @@
 # 🌐02 — Fundamentos de Redes de Computadores
 
-## 🎯 Objetivo da Aula
+## 🎯 Objetivo 
 Compreender como funcionam as redes de computadores,
 a base da comunicação na internet e os principais modelos
 utilizados para padronizar essa comunicação.
